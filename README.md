@@ -3,7 +3,7 @@
 I'm so happy I can finally get started on my R Studio 101 Self-Documenting Statistics Project/Tutorial/Repository
 
 1. [RStudio](https://posit.co/downloads/) - Download IDE (integrated development environment) from here
-2. [CURL package for R](https://cran.r-project.org/web//packages/curl/vignettes/intro.html)
+2. [CURL package for R](https://cran.r-project.org/web//packages/curl/vignettes/intro.html) - pronounced "curl". Used to transfer data using various network protocols. Acronym stands for "Client for URL" [curl wiki article](https://en.wikipedia.org/wiki/CURL).
 
 <!--
 **ldragoon/ldragoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
