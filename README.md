@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-I'm so happy I can finally get started on my Statistics R Studio 101 Self-Documenting Project/Tutorial/Repository
+I'm so happy I can finally get started on my R Studio 101 Self-Documenting Statistics Project/Tutorial/Repository
+
+
+
 <!--
 **ldragoon/ldragoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
