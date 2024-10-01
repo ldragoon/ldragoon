@@ -8,7 +8,7 @@ I'm so happy I can finally get started on my R Studio 101 Self-Documenting Stati
 2. [CURL package for R](https://cran.r-project.org/web//packages/curl/vignettes/intro.html) - pronounced "curl". Used to transfer data using various network protocols. Acronym stands for "Client for URL" [curl wiki article](https://en.wikipedia.org/wiki/CURL).
 3. [Download iCloud Album](https://support.apple.com/en-us/111762#sharedalbums)
 4. [Ubuntu WSL Documentation](https://documentation.ubuntu.com/wsl/en/latest/tutorials/vscode/) - WSL = Windows Subsystem for Linux
-5. [Git Large File Storage](https://git-lfs.com)
+5. [Git Large File Storage](https://git-lfs.com) - 100MB cap on regular GitHub
 6. [Extracting Metadata from Large Set of Images](https://stackoverflow.com/questions/59707871/extracting-metadata-from-large-set-of-images#59708254) - Stackoverflow Post
 7. [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
