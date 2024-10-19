@@ -11,6 +11,7 @@ I'm so happy I can finally get started on my R Studio 101 Self-Documenting Stati
 5. [Git Large File Storage](https://git-lfs.com) - 100MB cap on regular GitHub
 6. [Extracting Metadata from Large Set of Images](https://stackoverflow.com/questions/59707871/extracting-metadata-from-large-set-of-images#59708254) - Stackoverflow Post
 7. [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+8. [Photos to Spatial Stat](https://www.seascapemodels.org/rstats/2016/11/14/photos-to-spatialstat.html)
 
 ![screenshot of r programming compiler](img/IMG_9792.png)
 
